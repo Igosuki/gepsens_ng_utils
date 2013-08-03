@@ -2,17 +2,12 @@
 *.rbc
 .bundle
 .config
-<<<<<<< HEAD
-coverage
-InstalledFiles
-=======
 .yardoc
 Gemfile.lock
 InstalledFiles
 _yardoc
 coverage
 doc/
->>>>>>> Gepsens Resources
 lib/bundler/man
 pkg
 rdoc
@@ -20,11 +15,7 @@ spec/reports
 test/tmp
 test/version_tmp
 tmp
-<<<<<<< HEAD
-
 # YARD artifacts
 .yardoc
 _yardoc
 doc/
-=======
->>>>>>> Gepsens Resources
